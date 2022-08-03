@@ -9,7 +9,7 @@
                 <p>Привет <b> Все!!!<i> hello</i></b> </p>
             </div>
             <div>
-                <a href="https://www.google.ru"><img src="nuclear-power-plant-1314782.jpg" width="200" height="200" alt="nuclear power"></a>
+                <a href="https://www.google.ru"><img src="nuclear-power-plant-1314782.jpg" width="300" height="300" alt="nuclear power"></a>
             </div>
             <div>
                 <ul>
